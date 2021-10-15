@@ -1,1 +1,1 @@
-server.port = 8080
+config.info = springcloud.config.dev
